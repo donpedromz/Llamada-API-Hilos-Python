@@ -121,7 +121,8 @@ En este proyecto, el uso de hilos permite que las llamadas API se ejecuten de ma
 
 ## Autor
 
-donpedromz
+Juan Pablo Olave Muñoz
+Luisa Maria Arango Lopez
 
 ## Licencia
 
